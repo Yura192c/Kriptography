@@ -1,2 +1,2 @@
 # Kriptography
-Rmplementation of different ciphers
+Implementation of different ciphers
